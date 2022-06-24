@@ -1,4 +1,4 @@
-# 555-Timer-Based-CLK-Signal
+# Astable 555 Timer Generated CLK Signal
 Ever since I learned about SPI and other communication interfaces in hardware I've been wanting to experiment with CLKs and CLK Signals. In this project I used a 555 timer in astable mode to help me produce a CLK like signal (highs and lows at a set frequency). I hooked up the output pin of the timer IC to my raspberry pi and wrote a mini python script to serve as my oscilloscope (because the real thing is very expensive) 😅.
 
 ## The Timer Circuit
