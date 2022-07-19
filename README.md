@@ -22,7 +22,7 @@ And,
 
 $$ C = 4.7 \mu F$$
 
-so our $$ f \approx 2.0 Hz $$
+so our $$ f\approx 2.0 Hz $$
 
 
 ## Sample Output Signal
